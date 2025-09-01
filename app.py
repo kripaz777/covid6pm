@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle as pk
-st.title("Salary Prediction System")
+st.title("Salary Prediction System!")
 st.image("https://pianalytix.com/wp-content/uploads/2020/12/Salary-Prediction-Model-using-ML-1024x427.jpg")
 
 #load model
